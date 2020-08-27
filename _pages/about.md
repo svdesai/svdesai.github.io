@@ -15,8 +15,8 @@ I'm Vikas Desai, a deep learning researcher with interests in developing limited
 I love to keep up with new research by writing paper summaries as blog posts. You can find me on [twitter](https://twitter.com/end_duality_gap) and [github](https://github.com/svdesai). 
 
 ## News: 
-- <span style="color: red;"> **NEW!** </span> (**Jul 2020**) Our tool EasyRFP for deep learning based plant phenotyping using Edge Computing has been accepted in (1) ECCV 2020 Demos and (2) CVPPP Workshop, ECCV 2020.
-- <span style="color: red;"> **NEW!** </span> (**Apr 2020**) Our work on fine grained sampling for Active Learning in Object Detection has been accepted in VL3 Workshop, CVPR 2020. 
+- <span style="color: red;"> **NEW!** </span> (**Jul 2020**) Our tool [EasyRFP](https://github.com/lab1055/easy-rfp) for deep learning based plant phenotyping using Edge Computing has been accepted in (1) ECCV 2020 Demos and (2) CVPPP Workshop, ECCV 2020.
+- <span style="color: red;"> **NEW!** </span> (**Apr 2020**) Our [work on fine grained sampling](https://openaccess.thecvf.com/content_CVPRW_2020/html/w54/Desai_Towards_Fine-Grained_Sampling_for_Active_Learning_in_Object_Detection_CVPRW_2020_paper.html) for Active Learning in Object Detection has been accepted in VL3 Workshop, CVPR 2020. 
 - (**Mar 2020**) Our [survey article](https://journal.accsindia.org/computer-vision-with-deep-learning-for-plant-phenotyping-in-agriculture-a-survey/) on Deep Learning in Agriculture appears in the March edition of [ACCS Journal India](https://journal.accsindia.org/).
 - (**Mar 2020**) [Paper](https://plantmethods.biomedcentral.com/articles/10.1186/s13007-020-00575-8) on point supervision based active learning for object detection in cereal crops, got published in Plant Methods, 2020 Edition (**Impact Factor: 4.4**).
 - (**Sep 2019**) Attended [BMVC '19](https://bmvc2019.org) to present our [paper](https://arxiv.org/abs/1908.02454) on adaptive supervision for object detection.
