@@ -9,10 +9,13 @@ redirect_from:
 ---
 
 
-I'm Vikas Desai, a deep learning researcher with interests in developing limited supervision techniques based on active learning and meta learning for label intensive computer vision tasks such as object detection and semantic segmentation. I'm fortunate to have been a part of [Dr. Vineeth N Balasubramanian's
+I'm a computer vision and deep learning researcher with interests in learning with limited supervision.
+
+I'm fortunate to have been a part of [Dr. Vineeth N Balasubramanian's
 ](https://www.iith.ac.in/~vineethnb/) research group - [Lab1055](https://lab1055.github.io/) at [IIT Hyderabad](https://www.iith.ac.in/), while closely collaborating with [Dr. Wei Guo](https://scholar.google.com/citations?user=pnMyJLEAAAAJ&hl=en) at [Field Phenomics Lab](http://park.itc.u-tokyo.ac.jp/Field-Phenomics/ninolab/index.html), University of Tokyo. During my time at IITH, my research focused on using active learning techniques for object detection with applications to precision agriculture and plant phenotyping. I have done internships at [University of Tokyo](https://www.u-tokyo.ac.jp/en/) (Summer 2018) and [AIST Tokyo](https://www.aist.go.jp/index_en.html) (Summer 2019). I currently work at Qualcomm in deep learning automation for mobile platforms. 
 
-I love to keep up with new research by writing paper summaries as blog posts. You can find me on [twitter](https://twitter.com/end_duality_gap) and [github](https://github.com/svdesai). 
+I love to keep up with new research by writing paper summaries as [blog posts](floatml.com). 
+Here's a link to my (fairly recent) [CV](files/vikas_desai_cv.pdf)
 
 ## News: 
 - <span style="color: red;"> **NEW!** </span> (**Jul 2020**) Our tool [EasyRFP](https://github.com/lab1055/easy-rfp) for deep learning based plant phenotyping using Edge Computing has been accepted in (1) ECCV 2020 Demos and (2) CVPPP Workshop, ECCV 2020.
