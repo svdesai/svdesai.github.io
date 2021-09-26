@@ -14,7 +14,7 @@ I'm a computer vision researcher with interests in deep learning with limited su
 I'm fortunate to have been a part of [Dr. Vineeth N Balasubramanian's
 ](https://www.iith.ac.in/~vineethnb/) research group - [Lab1055](https://lab1055.github.io/) at [IIT Hyderabad](https://www.iith.ac.in/), while closely collaborating with [Dr. Wei Guo](https://scholar.google.com/citations?user=pnMyJLEAAAAJ&hl=en) at [Field Phenomics Lab](http://park.itc.u-tokyo.ac.jp/Field-Phenomics/ninolab/index.html), University of Tokyo. During my time at IITH, my research focused on using active learning techniques for object detection with applications to precision agriculture and plant phenotyping. I have done internships at [University of Tokyo](https://www.u-tokyo.ac.jp/en/) (Summer 2018) and [AIST Tokyo](https://www.aist.go.jp/index_en.html) (Summer 2019). I currently work at Qualcomm in deep learning automation for mobile platforms. 
 
-I love to keep up with new research by writing paper summaries as [blog posts](floatml.com).
+I love to keep up with new research by writing paper summaries as [blog posts](http://floatml.com).
 
 Here's a link to my (fairly recent) [CV](files/vikas_desai_cv.pdf)
 
